@@ -9,7 +9,7 @@ import numpy as np
 
 
 def rolling_predict(model, train_data, test_data, time_step, n_features, n_points):
-    """滚动预测，生成 n_points × n_points 的结果矩阵。"""
+    """Run recursive forecasts and return an n_points by n_points matrix."""
     results = np.zeros((n_points, n_points))
 
     for obs_count in range(n_points):
