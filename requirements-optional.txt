@@ -1,0 +1,11 @@
+-r requirements.txt
+scipy
+matplotlib
+seaborn
+pyproj
+scikit-learn
+tensorflow
+Pillow
+openpyxl
+joblib
+tqdm

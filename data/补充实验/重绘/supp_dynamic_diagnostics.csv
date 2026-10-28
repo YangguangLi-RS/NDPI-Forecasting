@@ -1,0 +1,4 @@
+﻿configuration,stations,common_n_min,common_n_max,sos_max_rmse,eos_max_rmse,calculated_observations_per_curve,displayed_points_per_curve,curves
+L12_no_seasonality,136,86,136,90.95539412772743,85.07643622061282,46,24,36
+L46_seasonality,136,136,136,12.722432712246784,12.049225017793127,46,24,36
+L46_no_seasonality,136,136,136,20.694024428777105,14.997793955425971,46,24,36

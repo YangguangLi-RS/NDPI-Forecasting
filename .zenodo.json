@@ -1,0 +1,19 @@
+{
+  "title": "NDPI-Forecasting: code, selected data and result tables",
+  "upload_type": "software",
+  "description": "Compact research release accompanying A multidimensional comparison for long-horizon recursive vegetation index forecasting: error accumulation, phenological retention, and spatial-pattern preservation. Includes original analysis scripts with portable paths, processed point time series, point phenology estimates, principal result tables and 100-pixel examples from each regional case. Model checkpoints, complete regional grids and fitted intermediate curves are not included. The provided verification command checks included phenology statistics and spatial-summary means; it is not a full retraining package. Code is MIT licensed; project-authored data and documentation are CC BY 4.0 subject to third-party source terms.",
+  "creators": [
+    {
+      "name": "Li, Yangguang",
+      "affiliation": "Institute of Agricultural Resources and Regional Planning, Chinese Academy of Agricultural Sciences"
+    }
+  ],
+  "keywords": [
+    "NDPI",
+    "vegetation index forecasting",
+    "phenology",
+    "remote sensing"
+  ],
+  "license": "MIT",
+  "version": "1.0.0"
+}

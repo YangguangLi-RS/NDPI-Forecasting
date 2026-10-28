@@ -1,0 +1,4 @@
+﻿lead_days,best_r_H_model,best_r_H_value,best_MAE_H_model,best_MAE_H_value,best_r_G_model,best_r_G_value,best_MAE_G_model,best_MAE_G_value
+8,Transformer L12 no-season,0.878526216,Transformer L12 seasonal,0.004580716,CNN L12 no-season,0.875573629,Transformer L12 seasonal,0.004918578
+32,Equal-weight ensemble,0.594959348,CNN L46 no-season,0.007499682,Dynamic ensemble,0.601975287,CNN L46 no-season,0.007933811
+88,Equal-weight ensemble,0.581652874,CNN L46 no-season,0.007566616,Equal-weight ensemble,0.58961213,CNN L46 no-season,0.008004122
